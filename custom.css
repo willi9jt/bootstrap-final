@@ -1,0 +1,14 @@
+
+h2, h3, p, h5 {text-align: center;}
+
+header {background-image: url(images/van.jpg);}
+
+body {background-color: #6ea0f0}
+
+img {align-content: center;}
+
+ h2, h5, p, h3 { font-family:garamond; }
+
+ h1 {font-family: 'Brush Script MT', cursive;}
+
+card {align-content: center;}
